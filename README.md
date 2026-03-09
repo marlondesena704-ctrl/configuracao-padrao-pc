@@ -8,6 +8,6 @@
 - 6 - Abrir PASTA PADRÃO; Instalar pacote padrão; (NECESSÁRIO EXTRAIR ALGUNS PROGRAMAS)
     *Chrome, App Infoway, AdbeRdr10..., WinRar, Java32bits, Microsoft Office All in One, AdobeReader X, BitDefender (epskit), Driver Booster*
 - 7 - No App Infoway, aplicar configuração "Aplicar todos";
-- 8 - No Microsoft Office All in One, abrir e instalar Office 2016 e, depois, instalar Word, Outlook, PowerPointe e Excel;
+- 8 - No Microsoft Office All in One, abrir e instalar Office 2016 e, depois, instalar Word, Outlook, PowerPoint e Excel;
 
  
